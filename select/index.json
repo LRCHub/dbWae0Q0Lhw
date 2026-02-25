@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "春陽",
+  "base_artist": "花譜",
+  "createdAt": "2026-02-25T09:57:06.272748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春陽",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/01_春陽_花譜.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春陽",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/pl_01_春陽_花譜.txt"
+    }
+  ]
+}
